@@ -5,4 +5,4 @@ En una escena uso Blueprint y en otro escena uso C++.
 Entre las cosas más complejas esta buscar un blueprint desde C++ y usarlo para instanciarlo en la posición de otro blueprint que tiene un script en
 C++
 
-![Alt Text](https://media.giphy.com/media/zovlRSDRL4pprUtEY9/source.gif)
+![Alt Text](https://media.giphy.com/media/SScBXeReNqpxoppMkO/source.gif)
