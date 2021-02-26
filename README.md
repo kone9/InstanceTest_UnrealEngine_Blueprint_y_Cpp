@@ -1,5 +1,5 @@
 # UnrealEngine Instance Test
-# Cada cierto tiempo instancio cubos Con C++ o Blueprint
+# Instanciar cubos cada cierto tiempo Con C++ o Blueprint
 En este proyecto instancio cubos cada cierto tiempo.
 En una escena uso Blueprint y en otro escena uso C++.
 
